@@ -1,0 +1,20 @@
+Project Description
+
+This project investigates whether the examination body written by South African matric candidates influences the likelihood of achieving a Bachelor pass.
+Using a simulated dataset informed by real-world matric outcome patterns, statistical techniques were applied to compare Bachelor pass rates between candidates
+who wrote the Independent Examinations Board (IEB) examinations and those who wrote the National Senior Certificate (NSC) examinations. The analysis includes
+descriptive statistics, visual comparisons, proportion tests, chi-squared tests, effect size estimation, subject stream  and logistic regression
+modeling.
+
+Hypotheses
+Null Hypothesis:
+There is no difference in the probability of achieving a Bachelor pass between candidates who write the IEB examinations and those who write the NSC examinations.
+Alternative Hypothesis:
+Candidates who write the IEB examinations are more likely to achieve a Bachelor pass than candidates who write the NSC examinations.
+
+Conclusions
+The results provide sufficient evidene to indicate that IEB candidates achieve higher Bachelor pass rates than NSC candidates. Proportion tests and chi-squared analysis
+reveal a statistically significant association between examination body and Bachelor pass outcomes, with a non-negligible effect size. Logistic regression further 
+confirms that, after controlling for subject stream, NSC candidates have significantly lower odds of obtaining a Bachelor pass compared to IEB candidates, while subject 
+stream itself is not a significant predictor. Additionally, IEB candidates demonstrate higher distinction (80%+) rates across streams. Overall, the findings suggest that
+systemic and structural differences between examination bodies play a more influential role in Bachelor pass outcomes than subject choice.
